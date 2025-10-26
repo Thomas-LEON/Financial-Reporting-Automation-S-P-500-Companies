@@ -14,23 +14,6 @@ It uses the **“Financial Data S&P 500 Companies”** dataset from Kaggle and d
 
 ---
 
-## Project Architecture
-financial-reporting-automation/
-│
-├── data/
-│ └── sp500_financials.csv
-│
-├── notebook/
-│ └── financial_reporting_sp500.ipynb
-│
-├── scripts/
-│ └── automate_reporting.py
-│
-├── reports/
-│ └── Financial_Report.xlsx
-│
-├── README.md
-└── requirements.txt
 
 ##  Workflow
 
